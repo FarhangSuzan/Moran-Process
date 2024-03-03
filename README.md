@@ -9,3 +9,4 @@ and "The effect of spatial randomness on the average fixation time of mutants."
 To execute these codes on Linux, use the command: `g++ -Ofast BD.cpp; ./a.out;` followed by 
 entering the population number (e.g., 10, indicating the graph has 10 nodes or the population size is N=10).
 Please reference these publications: "https://doi.org/10.1098/rsif.2018.0781", and "https://doi.org/10.1371/journal.pcbi.1005864", if you are using these codes.
+For further support, please reach out to [Suzan Farhang-Sardroodi](https://www.suzanfarhangsardroodi.com/).

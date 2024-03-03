@@ -1,4 +1,5 @@
 # Moran-Process
+Stochastic evolution of a population 
 The C++ codes for two distinct scenarios of the Moran process in fluctuating environments have been provided.
 These codes model the growth of a mutant within a wild-type cell population in a geographically structured population (modeled as a complete graph or circle line), 
 aiming to determine the fixation probability and time for the mutant. Essentially, these codes mimic tumor growth within the complex tumor microenvironment. 

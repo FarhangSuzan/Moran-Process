@@ -1,5 +1,5 @@
 # Moran-Process (Stochastic Evolution of a Population)
-## The Moran process is a mathematical model used to describe the evolution of genetic types in a population, particularly within the framework of evolutionary game theory. It represents a simplified way to model the dynamics of populations where the total size remains constant, but the composition of types (e.g., different genetic variants or strategies) can change over time. The process is stochastic, meaning it incorporates randomness, and is used to understand how certain traits or strategies become fixed or lost in populations.
+### The Moran process is a mathematical model used to describe the evolution of genetic types in a population, particularly within the framework of evolutionary game theory. It represents a simplified way to model the dynamics of populations where the total size remains constant, but the composition of types (e.g., different genetic variants or strategies) can change over time. The process is stochastic, meaning it incorporates randomness, and is used to understand how certain traits or strategies become fixed or lost in populations.
 
 ### Birth-Death Scenario
 

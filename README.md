@@ -34,9 +34,11 @@ For further support, please reach out to [Suzan Farhang-Sardroodi](https://www.s
 
 # Citation
 
-If you use any of these codes (BD.cpp, BDt.cpp, DB.cpp, DBt.cpp), please reference these publications: 
+If you use these codes (BD.cpp, BDt.cpp, DB.cpp, DBt.cpp), please reference these publications: 
 
--Farhang-Sardroodi, Suzan, Amir H. Darooneh, Mohammad Kohandel, and Natalia L. Komarova. "Environmental spatial and temporal variability and its role in non-favoured mutant dynamics." Journal of The Royal Society Interface 16, no. 157 (2019): 20180781."https://doi.org/10.1098/rsif.2018.0781",
+[Farhang-Sardroodi, Suzan, Amir H. Darooneh, Mohammad Kohandel, and Natalia L. Komarova. "Environmental spatial and temporal variability and its role in non-favoured mutant dynamics." Journal of The Royal Society Interface 16, no. 157 (2019): 20180781.](https://doi.org/10.1098/rsif.2018.0781),
 
--Farhang-Sardroodi, Suzan, Amir H. Darooneh, Moladad Nikbakht, Natalia L. Komarova, and Mohammad Kohandel. "The effect of spatial randomness on the average fixation time of mutants." PLoS Computational Biology 13, no. 11 (2017): e1005864."https://doi.org/10.1371/journal.pcbi.1005864".
+[Farhang-Sardroodi, Suzan, Amir H. Darooneh, Moladad Nikbakht, Natalia L. Komarova, and Mohammad Kohandel. "The effect of spatial randomness on the average fixation time of mutants." PLoS Computational Biology 13, no. 11 (2017): e1005864.](https://doi.org/10.1371/journal.pcbi.1005864),
+
+or this page: [https://github.com/FarhangSuzan](https://github.com/FarhangSuzan).
 
